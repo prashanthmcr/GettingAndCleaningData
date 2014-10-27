@@ -8,6 +8,7 @@ A full description of the files used as a part of this activity comes from the f
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 This respository contains the following files:
+
 1. run_analysis.R -- The actual R script used for processing the data and producing the final output.
 2. ReadMe.md -- The markdown file that provides a brief over-view on how to run the file "run_analysis.R"
 3. CodeBook.md -- This file
